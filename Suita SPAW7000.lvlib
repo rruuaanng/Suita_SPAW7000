@@ -52,11 +52,9 @@
 			<Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Utility/Utility.mnu"/>
 			<Item Name="Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Utility/Error Query.vi"/>
 			<Item Name="Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Utility/Reset.vi"/>
-			<Item Name="Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Utility/Revision Query.vi"/>
+			<Item Name="Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Utility/Query.vi"/>
 			<Item Name="Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Utility/Self-Test.vi"/>
 			<Item Name="Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Utility/Trigger.vi"/>
-			<Item Name="aaaaaaa.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Utility/aaaaaaa.vi"/>
-			<Item Name="bbb.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Utility/bbb.vi"/>
 		</Item>
 		<Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/dir.mnu"/>
 		<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Close.vi"/>
