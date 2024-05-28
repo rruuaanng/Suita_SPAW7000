@@ -25,6 +25,7 @@
 			<Item Name="Calibrate.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Action-Status/Calibrate.vi"/>
 			<Item Name="Query Range Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Action-Status/Query Range Test.vi"/>
 			<Item Name="Zero.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Action-Status/Zero.vi"/>
+			<Item Name="Query Measured Value.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Action-Status/Query Measured Value.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Configure/Configure.mnu"/>
@@ -36,6 +37,7 @@
 			<Item Name="Configure Synchronize Source.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Configure/Configure Synchronize Source.vi"/>
 			<Item Name="Configure Harmonics.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Configure/Configure Harmonics.vi"/>
 			<Item Name="Configure Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Configure/Configure Rate.vi"/>
+			<Item Name="Configure Numeric.vi" Type="VI" URL="/&lt;instrlib&gt;/Suita SPAW7000/Public/Configure/Configure Numeric.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Low Level" Type="Folder">
